@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"BracketHighlighter",
+		"Darkula Color Scheme",
+		"Emmet",
+		"LaTeX-cwl",
+		"LaTeXTools",
+		"Material Theme",
+		"Non Text Files",
+		"Origami",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeGDB",
+		"SublimeLinter",
+		"SublimeLinter-clang",
+		"Terminus",
+		"Theme - Darkmatter",
+		"Theme - Gravity",
+		"TypeScript"
+	]
+}
