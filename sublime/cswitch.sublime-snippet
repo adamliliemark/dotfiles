@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+switch(${1:var}) {
+	${2:/* case+tab */}
+}
+]]></content>
+<tabTrigger>swit</tabTrigger>
+<scope>source.c</scope>
+<description>switch statement</description>
+</snippet>

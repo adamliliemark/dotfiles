@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[#include <${1:stdio.h}>]]></content>
+
+<tabTrigger>incl</tabTrigger>
+<scope>source.c</scope>
+<description>#include header</description>
+	
+</snippet>

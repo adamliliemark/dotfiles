@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+#define ${1:name} ${2:value}
+]]></content>
+	<tabTrigger>defi</tabTrigger>
+	<scope>source.c</scope>
+	<description>define</description>
+</snippet>

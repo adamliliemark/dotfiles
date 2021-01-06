@@ -11,7 +11,8 @@
 		}
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"caret_extra_width": 3,
+	"color_scheme": "Packages/Darkula Color Scheme/darkula.tmTheme",
 	"draw_minimap_border": true,
 	"font_face": "Fira Code Medium",
 	"font_options":
@@ -20,6 +21,8 @@
 		"subpixel_antialias"
 	],
 	"font_size": 10,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
@@ -53,6 +56,7 @@
 	],
 	"prevent_bin_preview": true,
 	"preview_on_click": false,
+	"show_full_path": false,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"word_wrap": "true"
 }

@@ -1,26 +1,21 @@
 #!/bin/bash
-############################
-# .make.sh
-# This script puts all the Sublime files in the correct position.
-############################
+# Sublime Text 3
 
-########## Variables
-
-dir=~/dotfiles/sublime                    # dotfiles directory
-olddir=~/dotfiles_old/sublime             # old dotfiles backup directory
+dir=~/dotfiles/sublime
+olddir=~/dotfiles_old/sublime
 files="
 Preferences.sublime-settings 
 PackageControl.sublime-settings 
-Default (Linux).sublime-keymap 
+Default(Linux).sublime-keymap 
 LaTeX.sublime-completions 
 LaTeXTools.sublime-settings 
 JavaBuildRun.sublime-build 
 Origami.sublime-settings 
 bh_core.sublime-settings 
 Emmet.sublime-settings 
-"    # list of files/folders to symlink in homedir
+"
 
-##########
+
 
 # create dotfiles_old in homedir
 echo "Creating $olddir for backup of any existing dotfiles in ~"

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+default:
+	${1:/* code */}
+	break;
+]]></content>
+<tabTrigger>defa</tabTrigger>
+<scope>source.c</scope>
+<description>default</description>
+</snippet>

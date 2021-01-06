@@ -1,0 +1,19 @@
+[
+    { 
+        "keys": ["ctrl+ö"], "command": "terminus_open", "args": {
+            "cwd": "${file_path:${folder}}"
+        }
+    },
+
+    { 
+        "keys": ["ctrl+7"], "command": "toggle_comment", "args": {
+            "block": false
+        }
+    },
+    { 
+        "keys": ["ctrl+8"], "command": "toggle_comment", "args": {
+            "block": true
+        }
+    },
+
+]

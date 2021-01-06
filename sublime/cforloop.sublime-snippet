@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+for(${1:int i = 0}; i ${2:<} ${3:limit}; i++) {
+	${4:/* code */}
+}
+]]></content>
+<tabTrigger>for</tabTrigger>
+<scope>source.c</scope>
+<description>forloop</description>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

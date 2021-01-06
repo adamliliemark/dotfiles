@@ -1,0 +1,11 @@
+
+<snippet>
+	<content><![CDATA[
+case ${1:case}:
+	${2:/* code */}
+	break;
+]]></content>
+<tabTrigger>ca</tabTrigger>
+<scope>source.c</scope>
+<description>case</description>
+</snippet>
